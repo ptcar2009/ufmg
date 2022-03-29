@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfull_docs=self.webpackChunkfull_docs||[]).push([[976],{7153:function(s){s.exports=JSON.parse('{"permalink":"/ufmg/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfull_docs=self.webpackChunkfull_docs||[]).push([[779],{9283:function(a){a.exports=JSON.parse('{"allTagsPath":"/ufmg/blog/tags","name":"facebook","count":1,"permalink":"/ufmg/blog/tags/facebook"}')}}]);
